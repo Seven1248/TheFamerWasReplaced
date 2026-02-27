@@ -1,0 +1,2 @@
+#plant(Entities.cactus)
+	harvest()
